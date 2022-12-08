@@ -4,13 +4,13 @@
 
 ### 本站点信息:
 
-| Key         	| Value                                                                            	|
-|-------------	|----------------------------------------------------------------------------------	|
-| name        	| Sukoshi                                                                          	|
-| link        	| https://sukoshi.xyz                                                              	|
-| description 	| 十八岁基层程序猿想做涩影狮                                                       	|
-| avatar      	| https://s.gravatar.com/avatar/7b5a0b07a98895278cfa862b1f32ae8f?s=200&r=g&d=retro 	|
-| cover       	|                                                                                  	|
+| Key         	| Value                                                                                 	|
+|-------------	|----------------------------------------------------------------------------------------	|
+| name        	| 洛屿的小站                                                                             	|
+| link        	| https://www.drluo.top                                                                   |
+| description 	| 嗨,靓仔,今天也要有个好心情哦！                                                             |
+| avatar      	| https://gravatar.loli.top/avatar/6fa57e21db3ba5961f18a8ae75d0a081?s=200&r=g&d=retro     |
+| cover       	|                                                                                       	|
 
 
 其中`cover`目前并没有用到，它应该是一个封面图，这里为了方便扩展以后修改友链样式等新加的，如果没有不填写即可～
