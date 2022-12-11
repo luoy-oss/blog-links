@@ -1,3 +1,7 @@
 - { "name" : "是洛大人哟", "describe" : "emmm，或许，这个也是我的网站呢，嘿嘿", "link" : "https://drluo.bk-free01.com/", "cover" : "https://saas.bk-cdn.com/t/768eee87-5c14-495f-9e54-e06848a5a937/u/1c0e9cd5-a83b-494f-bdd0-442dd367088e/drluoLogo1598224724428.png" }
+<<<<<<< HEAD
 - { "name" : "山岳库博", "describe" : "开发学习启发性二刺螈", "link" : "https://kmar.top/", "cover" : "https://fastly.jsdelivr.net/npm/@kmar/fonts/avatar/own.png" }
 - { "name" : "linkeke's blog", "describe" : "大家好，这里是林可可。", "link" : "https://www.linkeke.cn/", "cover" : "https://www.linkeke.cn/wp-content/uploads/2022/11/a438d4ba3d1d788a67fc84.jpg" }
+=======
+- { "name" : "linkeke's blog", "describe" : "大家好，这里是林可可。", "link" : "https://www.linkeke.cn/", "cover" : "https://www.linkeke.cn/wp-content/uploads/2022/11/a438d4ba3d1d788a67fc84.jpg" }
+>>>>>>> 7ce77351d3b6346d8091dd92316b4ea7fe494a46
