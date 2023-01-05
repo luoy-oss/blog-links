@@ -11,5 +11,5 @@
 - { "name" : "一杯冰美式", "describe" : "物物而物不物于物", "link" : "https://inscc.cc/", "cover" : "https://inscc.cc/ins.png" }
 - { "name" : "I Am I", "describe" : "永远相信美好的事情即将发生", "link" : "https://5ime.cn/", "cover" : "https://cdn.jsdelivr.net/gh/5ime/img/avatar.jpg" }
 - { "name" : "0o酱", "describe" : "Hello! I'm 0o酱", "link" : "https://im0o.top/", "cover" : "https://image.im0o.top/files/202112021204213.jpg" }
-- { "name" : "盧瞳Blog", "describe" : "先思考后编程", "link" : "http://blog.1think2program.cn/", "cover" : "https://hexo-blog-1303709080.cos.ap-hongkong.myqcloud.com/image/head.jpg" }
+- { "name" : "盧瞳Blog", "describe" : "先思考后编程", "link" : "http://blog.1think2program.cn/", "cover" : "https://blog.1think2program.cn/images/head.jpg" }
 - { "name" : "hohoyun", "describe" : "Vue3 与 SpringBoot 的博客 模仿了hexo的butterfly", "link" : "http://www.hohoyun.cn/", "cover" : "https://movie-zsh.oss-cn-beijing.aliyuncs.com/blog/hohoH.jpg" }
